@@ -1,4 +1,6 @@
-
+/*자동형변환
+ 작은 범위 숫자를 큰 범위의 숫자에 담을 때 발생
+ */
 public class _9_AutoTransType {
 	public static void main(String[] args) {
 		/*자동형변환이 일어난다
@@ -20,6 +22,7 @@ public class _9_AutoTransType {
 		char ch = 'A';
 		int j = ch;
 		System.out.println(j);
+		
 		
 	}
 }
